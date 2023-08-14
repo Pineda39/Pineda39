@@ -7,8 +7,9 @@ I have the super-power to code and stay focus on any task I am involved in. I am
 ## ⚡ Technologies
 Talk to me about
 - Mobile application development using **Android (Java or Kotlin), Xamarin Android / Xamarin iOS, Ionic**
-- Creating scalable cloud architecture using **Microsoft Azure**
-- Project Management and CD/CI using **Azure DevOps**
+- Deep learning using **Python**
+- Data Base strucutres using **SQL**
+
 
 ## 📫 Contact Me
 - LinkedIn - [Francisco José Pineda Ruiz](https://www.linkedin.com/in/franciscojosepinedaruiz/)
