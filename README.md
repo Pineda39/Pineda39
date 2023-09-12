@@ -8,6 +8,9 @@ I have the super-power to code and stay focus on any task I am involved in. I am
 Talk to me about
 - Mobile application development using **Android (Java or Kotlin), Xamarin Android / Xamarin iOS, Ionic**
 - Deep learning using **Python**
+- Fast software of **Scala**
+- Lazy evaluations of **Haskell**
+- Object-oriented style of **JavaScript**
 - Data Base strucutres using **SQL**
 
 
